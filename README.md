@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```Ruby
 F2ViewTool::Renderer.copyright 'Sinthorn Pradutnam', 'All rights reserved'
+```
 
 ## Development
 
